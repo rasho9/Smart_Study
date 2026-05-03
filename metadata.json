@@ -1,0 +1,13 @@
+{
+  "name": "Smart Student Assistant",
+  "description": "An AI-powered learning companion that helps students track progress through academic performance and daily interactions, provide detailed insights into learning capabilities, identify strengths, and suggest personalized career paths.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered learning",
+    "Bilingual support (Urdu/English)",
+    "Voice recognition",
+    "Study planning"
+  ]
+}
